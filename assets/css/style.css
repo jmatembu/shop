@@ -81,6 +81,7 @@ input[type="text"] {
 body {
 	background-color: #F0FFF0;
 	font-size: 16px;
+	font-weight: 300;
 	line-height: 1.3em;
 	font-family: "Cabin", sans-serif;
 }
@@ -134,6 +135,7 @@ button {
 	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
 	border-radius: 0 4px 4px 0;
 	background-color: #FAFAFA;
+	text-align: center;
 	transition: 0.2s
 }
 .product:hover {
